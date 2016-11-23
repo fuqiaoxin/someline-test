@@ -15,5 +15,12 @@ bootstrap/cache/
 .rocketeer/
 
 /.idea
-/.idea/*
+.idea/*
 
+/node_modules
+/public/storage
+/vendor
+Homestead.json
+Homestead.yaml
+/npm-debug.log
+/npm-debug.log.*
